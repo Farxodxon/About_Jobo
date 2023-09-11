@@ -2,4 +2,4 @@
 
 Jobo.uz is a profitable job for job seekers and a consulting agency for companies that helps find qualified employees in a short time. The project also provides for the provision of professional assistance to our compatriots in finding employment in reputable companies abroad.
 
-![Example](https://i.imgur.com/eSXVCcg.mp4)
+![Example](<a href="https://imgur.com/eSXVCcg"><img src="https://i.imgur.com/eSXVCcg.mp4" title="source: imgur.com" /></a>)
